@@ -84,8 +84,6 @@ Step 7: Logout<br/>
 > Server side programming
 - Files
 
-## Simulation Diagram and Results
-![Simulation Diagram](simulation-diagram.jpg)
 
 ## Expected Outcomes 
 * The project Online Job Portal has been successfully designed and tested. 
